@@ -13,4 +13,3 @@ var employees = [
 for (var i = 0; i < 3; i++) {
     console.log(employees[i].name, employees[i].age);
 }
-

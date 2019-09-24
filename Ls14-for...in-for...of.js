@@ -19,4 +19,3 @@ var myDogs = {
 for (var key in myDogs) {
     console.log(key, myDogs[key]);
 }
-
